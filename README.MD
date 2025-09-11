@@ -6,7 +6,8 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 ###  Meus Sites
 | Projeto | Link |
 |--------|------|
-| Projeto Web no Netlify | [Ver site](https://brasriocg.netlify.app/) |
+| Projeto Web da empresa BrasRio | [Ver site](https://brasriocg.netlify.app/) |
+| Projeto Web de Armarinho | [Ver site](https://cleoneide.netlify.app/) |
 
 ---
 
@@ -44,6 +45,7 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 
 -  Bacana construir projetos e explorá-los na web – e amarre tudo com design e funcionalidade!  
 -  Focado em estudar sempre e evoluir meu portfólio.
+
 
 
 
