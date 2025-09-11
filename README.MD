@@ -7,7 +7,6 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 | Projeto | Link |
 |--------|------|
 | Projeto Web no Netlify | [Ver site](https://brasriocg.netlify.app/) |
-| (Se tiver outros, pode listar aqui) | [Link do outro projeto](#) |
 
 ---
 
@@ -45,5 +44,6 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 
 -  Bacana construir projetos e explorá-los na web – e amarre tudo com design e funcionalidade!  
 -  Focado em estudar sempre e evoluir meu portfólio.
+
 
 
