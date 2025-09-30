@@ -6,15 +6,20 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 ###  Meus Sites
 | Projeto | Link |
 |--------|------|
-| Projeto Web da empresa BrasRio | [Ver site](https://brasriocg.netlify.app/) |
-| Projeto Web de Armarinho | [Ver site](https://cleoneide.netlify.app/) |
+| Página Web da empresa BrasRio | [Ver site](https://brasrio.netlify.app/) |
+| Calculadora BrasRio | [Ver site](https://brasriocg.netlify.app/) |
+| Página Web de Armarinho | [Ver site](https://cleoneide.netlify.app/) |
+
+| Projeto em andamento PlanejAgro | [Ver site](https://planejagro.netlify.app/) |
 
 ---
 
 ###  Repositórios em Destaque
 
-- **Netlify** – Meus sites prontos e publicados, com HTML, CSS e outros.  
+- **Sites** – Meus sites prontos e publicados, com HTML, CSS e outros.  
+- **Aplicativos** – Meus aplicativos desenvolvidos para android, jogos e extensão de navegador. 
 - **Aprendendo** – Códigos de estudo em diferentes linguagens, tudo bem organizado por pastas.
+
 
 ---
 
@@ -28,9 +33,12 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 
 ###  Linguagens & Ferramentas
 
+- Kotlin
+- Python
 - HTML5 • CSS3 • JavaScript
-- (adicione outras que estiver usando: React, Git, etc.)
-- Netlify (deploy e hospedagem estática)
+- MySQL
+- Git
+- Netlify
 
 ---
 
@@ -43,8 +51,9 @@ Sempre estudando, praticando e criando projetos com paixão pelo front-end e des
 
 ###  Curiosidades  
 
--  Bacana construir projetos e explorá-los na web – e amarre tudo com design e funcionalidade!  
+-  Acho bacana construir projetos e explorá-los na web e mobile!  
 -  Focado em estudar sempre e evoluir meu portfólio.
+
 
 
 
