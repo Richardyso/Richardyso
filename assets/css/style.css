@@ -633,31 +633,40 @@ body {
     background: var(--darker-bg);
 }
 
-.android-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+.android-app-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    margin-bottom: 3rem;
 }
 
-.android-card {
+.android-app {
     background: var(--card-bg);
-    border-radius: 15px;
-    padding: 2rem;
-    text-align: center;
+    border-radius: 20px;
+    padding: 2.5rem;
     transition: var(--transition);
-    border: 1px solid transparent;
+    border: 1px solid rgba(61, 220, 132, 0.2);
+    cursor: pointer;
 }
 
-.android-card:hover {
-    transform: translateY(-10px);
+.android-app:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 40px rgba(61, 220, 132, 0.2);
     border-color: #3ddc84;
-    box-shadow: 0 0 30px rgba(61, 220, 132, 0.3);
+}
+
+.android-app-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid rgba(61, 220, 132, 0.2);
 }
 
 .android-icon {
     width: 80px;
     height: 80px;
-    margin: 0 auto 1rem;
     background: linear-gradient(135deg, #3ddc84, #07c160);
     border-radius: 50%;
     display: flex;
@@ -665,40 +674,236 @@ body {
     justify-content: center;
     font-size: 2rem;
     color: white;
+    flex-shrink: 0;
+    box-shadow: 0 5px 20px rgba(61, 220, 132, 0.3);
 }
 
-.android-card h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
+.android-app-info {
+    flex: 1;
+}
+
+.android-app-info h3 {
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
     color: var(--text-primary);
+    background: linear-gradient(135deg, #3ddc84, #07c160);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
-.android-card p {
+.android-app-info h3 i {
+    font-size: 1.2rem;
+    opacity: 0.7;
+    transition: var(--transition);
+}
+
+.android-app:hover .android-app-info h3 i {
+    opacity: 1;
+    transform: translateX(5px);
+}
+
+.android-app-info p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-size: 1.05rem;
+}
+
+.android-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.android-tags .tag {
+    background: rgba(61, 220, 132, 0.15);
+    border-color: #3ddc84;
+    color: #3ddc84;
+}
+
+.android-tags .tag:hover {
+    background: #3ddc84;
+    color: var(--darker-bg);
+}
+
+.android-screenshots {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+}
+
+.screenshot-item {
+    background: rgba(61, 220, 132, 0.05);
+    border-radius: 15px;
+    padding: 1rem;
+    transition: var(--transition);
+    border: 2px solid rgba(61, 220, 132, 0.2);
+    max-width: 350px;
+    width: 100%;
+}
+
+.screenshot-item:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 10px 40px rgba(61, 220, 132, 0.3);
+    border-color: #3ddc84;
+}
+
+.screenshot-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    transition: var(--transition);
+}
+
+.screenshot-item:hover img {
+    box-shadow: 0 10px 30px rgba(61, 220, 132, 0.4);
+}
+
+/* ==================== CHROME EXTENSIONS ==================== */
+.chrome-extensions {
+    padding: 5rem 2rem;
+    background: var(--dark-bg);
+}
+
+.extension-app-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.extension-app {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 2.5rem;
+    transition: var(--transition);
+    border: 1px solid rgba(66, 133, 244, 0.2);
+    cursor: pointer;
+}
+
+.extension-app:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 40px rgba(66, 133, 244, 0.3);
+    border-color: #4285f4;
+}
+
+.extension-app-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.extension-icon {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #4285f4, #34a853);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    flex-shrink: 0;
+    box-shadow: 0 5px 20px rgba(66, 133, 244, 0.3);
+}
+
+.extension-app-info {
+    flex: 1;
+}
+
+.extension-app-info h3 {
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+    color: var(--text-primary);
+    background: linear-gradient(135deg, #4285f4, #34a853);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.extension-app-info h3 i {
+    font-size: 1.2rem;
+    opacity: 0.7;
+    transition: var(--transition);
+}
+
+.extension-app:hover .extension-app-info h3 i {
+    opacity: 1;
+    transform: translateX(5px);
+}
+
+.extension-app-info p {
     color: var(--text-secondary);
     margin-bottom: 1.5rem;
+    line-height: 1.6;
+    font-size: 1.05rem;
 }
 
-.android-placeholder {
-    background: rgba(61, 220, 132, 0.1);
-    border: 2px dashed #3ddc84;
-    border-radius: 10px;
-    padding: 3rem 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.extension-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 1rem;
-    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    background: rgba(66, 133, 244, 0.05);
+    border-radius: 10px;
+    border: 1px solid rgba(66, 133, 244, 0.1);
 }
 
-.android-placeholder i {
-    font-size: 3rem;
-    color: #3ddc84;
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-primary);
+    font-size: 0.95rem;
+    transition: var(--transition);
+}
+
+.feature-item i {
+    color: #4285f4;
+    font-size: 1.1rem;
+}
+
+.feature-item:hover {
+    transform: translateX(5px);
+}
+
+.feature-item:hover i {
+    color: #34a853;
+}
+
+.extension-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.extension-tags .tag {
+    background: rgba(66, 133, 244, 0.15);
+    border-color: #4285f4;
+    color: #4285f4;
+}
+
+.extension-tags .tag:hover {
+    background: #4285f4;
+    color: white;
 }
 
 /* ==================== REPOSITORIES ==================== */
 .repositories {
     padding: 5rem 2rem;
-    background: var(--dark-bg);
+    background: var(--darker-bg);
 }
 
 .repo-grid {
@@ -1274,6 +1479,7 @@ body {
     .about,
     .projects,
     .android-projects,
+    .chrome-extensions,
     .repositories,
     .skills,
     .contact {
@@ -1287,7 +1493,6 @@ body {
     
     .about-cards,
     .projects-grid,
-    .android-grid,
     .repo-grid,
     .skills-container {
         grid-template-columns: 1fr;
@@ -1296,11 +1501,59 @@ body {
     
     .project-card,
     .about-card,
-    .android-card,
     .repo-card,
     .skill-item {
         margin: 0 auto;
         max-width: 100%;
+    }
+    
+    .android-app {
+        padding: 1.5rem;
+    }
+    
+    .android-app-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    .android-app-info h3 {
+        font-size: 1.6rem;
+        justify-content: center;
+    }
+    
+    .android-screenshots {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .screenshot-item {
+        max-width: 100%;
+    }
+    
+    .extension-app {
+        padding: 1.5rem;
+    }
+    
+    .extension-app-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 1.5rem;
+    }
+    
+    .extension-app-info h3 {
+        font-size: 1.6rem;
+        justify-content: center;
+    }
+    
+    .extension-features {
+        grid-template-columns: 1fr;
+        padding: 1rem;
+    }
+    
+    .feature-item {
+        justify-content: center;
     }
     
     .social-links {
@@ -1358,15 +1611,55 @@ body {
     
     .about-card,
     .project-card,
-    .android-card {
-        padding: 1.5rem;
+    .android-app,
+    .extension-app {
+        padding: 1rem;
     }
     
     .card-icon,
-    .android-icon {
+    .android-icon,
+    .extension-icon {
         width: 60px;
         height: 60px;
         font-size: 1.5rem;
+    }
+    
+    .android-app-info h3 {
+        font-size: 1.4rem;
+        justify-content: center;
+    }
+    
+    .android-app-info h3 i {
+        font-size: 1rem;
+    }
+    
+    .android-app-info p {
+        font-size: 0.95rem;
+    }
+    
+    .extension-app-info h3 {
+        font-size: 1.4rem;
+        justify-content: center;
+    }
+    
+    .extension-app-info h3 i {
+        font-size: 1rem;
+    }
+    
+    .extension-app-info p {
+        font-size: 0.95rem;
+    }
+    
+    .extension-features {
+        padding: 0.8rem;
+    }
+    
+    .feature-item {
+        font-size: 0.85rem;
+    }
+    
+    .feature-item i {
+        font-size: 1rem;
     }
     
     .project-image {
