@@ -143,7 +143,7 @@ const richardyson = {
 - 💼 **LinkedIn**: [richardyson-freitas](https://www.linkedin.com/in/richardyson-freitas-166b421a3)
 - 📷 **Instagram**: [@ri_chardyson](https://www.instagram.com/ri_chardyson)
 - 💬 **WhatsApp**: [(21) 99922-4864](https://wa.me/5521999224864)
-- 🌐 **Portfolio**: [Em breve](https://richardyson.github.io)
+- 🌐 **Portfolio**: [(https://richardyso.netlify.app/)]
 - 📧 **Email**: Disponível no LinkedIn
 
 ---
@@ -172,5 +172,6 @@ const richardyson = {
 ⭐ *Se você gostou dos meus projetos, deixe uma estrela!* ⭐
 
 </div>
+
 
 
