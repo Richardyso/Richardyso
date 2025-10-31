@@ -37,10 +37,10 @@ Implementei um sistema de **screenshots automáticos** usando a API do **Thum.io
 - 🛡️ `onerror` - Se falhar, mostra placeholder vermelho/preto
 
 **Sites com screenshots automáticos:**
-1. ✅ BrasRio (https://brasrio.netlify.app/)
-2. ✅ Calculadora BrasRio (https://brasriocg.netlify.app/)
-3. ✅ Armarinho Cleoneide (https://cleoneide.netlify.app/)
-4. ✅ PlanejAgro (https://planejagro.netlify.app/)
+1. ✅ **Cuidar-PT (DESTAQUE)** (https://cuidar-pt.vercel.app/) - Sistema Full Stack com Node.js, MongoDB Atlas, Gmail API
+2. ✅ Armarinho Cleoneide (https://cleoneide.netlify.app/)
+3. ✅ Babi Design (https://babidesign.netlify.app/)
+4. ✅ Calculadora BrasRio (https://brasriocg.netlify.app/)
 
 ### 3. 🎯 Benefícios da Solução
 
@@ -199,8 +199,13 @@ Se as imagens não aparecerem após alguns segundos:
 
 ## 🌟 Recursos Implementados
 
-- ✅ **4 Sites** com preview automático
+- ✅ **Site Full Stack em Destaque** - Cuidar-PT com Node.js + MongoDB
+- ✅ **9 Tecnologias** exibidas (HTML, CSS, JS, Node.js, MongoDB, Python, Kotlin, Git, Vercel, Netlify, Gmail API)
+- ✅ **4 Sites** publicados (Cuidar-PT, Armarinho, Babi Design, Calculadora)
+- ✅ **2 Extensões Chrome** (Dido Scrapper, Dsender)
+- ✅ **2 Apps Android** (Eletricarlos, BrasRio)
 - ✅ **3 Repositórios** com links diretos
+- ✅ **Badge "Destaque"** animado para o projeto principal
 - ✅ **WhatsApp** integrado (botão flutuante)
 - ✅ **Tema vermelho/preto** moderno
 - ✅ **Logos das tecnologias** (DevIcons)

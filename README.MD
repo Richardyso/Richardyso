@@ -38,41 +38,61 @@ const richardyson = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-DC2626?style=for-the-badge)
 
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
-### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Cloud & Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Others
+### Tools & APIs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
 ## 🎯 Projetos em Destaque
 
 ### 🌐 Sites & Web Apps
-- **[BrasRio](https://brasrio.netlify.app/)** - Página web moderna da empresa BrasRio
+
+#### ✨ **[Cuidar-PT - Sistema Full Stack](https://cuidar-pt.vercel.app/)** ✨
+Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, integração com **Gmail API** e deploy no **Vercel**. Projeto Full Stack com backend robusto, interface moderna e envio de emails automatizado.
+
+**Tecnologias:** Node.js | JavaScript | MongoDB | Vercel | Gmail API | Git/GitHub
+
+---
+
+- **[Armarinho Cleoneide](https://cleoneide.netlify.app/)** - E-commerce de armarinho com design responsivo
+- **[Babi Design](https://babidesign.netlify.app/)** - Portfólio criativo de design com galeria de trabalhos
 - **[Calculadora BrasRio](https://brasriocg.netlify.app/)** - Calculadora interativa com interface intuitiva
-- **[Armarinho Cleoneide](https://cleoneide.netlify.app/)** - E-commerce de armarinho
-- **[PlanejAgro](https://planejagro.netlify.app/)** - Sistema de planejamento agrícola (em desenvolvimento)
 
 ### 📱 Aplicativos Android
 - **[Eletricarlos](https://github.com/Richardyso/Aplicativos/tree/main/Android/Eletricarlos)** - App para serviços elétricos em Kotlin
 - **[BrasRio App](https://github.com/Richardyso/Aplicativos/tree/main/Android/BrasRio)** - App Android da empresa BrasRio
 
 ### 🧩 Extensões Chrome
-- **[Dido - Extrator de Leads](https://github.com/Richardyso/Aplicativos/tree/main/Extens%C3%A3o/Dido)**
+- **[Dido Scrapper - Extrator de Leads](https://github.com/Richardyso/Aplicativos/tree/main/Extens%C3%A3o/Dido%20Scrapper)**
   - Extração automática de dados do Google Maps e Bing Maps
   - 100% Gratuito e sem limitações
   - Exportação para Excel
   - Web Scraping com JavaScript
+
+- **[Dsender - Envio Automatizado](https://github.com/Richardyso/Aplicativos/tree/main/Extens%C3%A3o/Dsender)**
+  - Automação de envio de mensagens
+  - Envio em massa e personalização
+  - Agendamento de mensagens
+  - Automação com JavaScript
 
 ---
 
@@ -108,6 +128,12 @@ const richardyson = {
 │  ├─ Animações e interatividade                      │
 │  └─ UI/UX design                                    │
 │                                                      │
+│  Backend Development                                │
+│  ├─ Node.js & Express                               │
+│  ├─ APIs RESTful                                    │
+│  ├─ MongoDB & MongoDB Atlas                         │
+│  └─ Integração com APIs externas (Gmail)            │
+│                                                      │
 │  Mobile Development                                 │
 │  ├─ Apps Android nativos em Kotlin                  │
 │  ├─ Material Design                                 │
@@ -118,10 +144,10 @@ const richardyson = {
 │  ├─ Web Scraping                                    │
 │  └─ Automação de tarefas                            │
 │                                                      │
-│  Backend & Database                                 │
-│  ├─ Python para backend                             │
-│  ├─ MySQL para dados                                │
-│  └─ APIs e integração                               │
+│  Cloud & Deploy                                     │
+│  ├─ Vercel (Full Stack Apps)                        │
+│  ├─ Netlify (Static Sites)                          │
+│  └─ MongoDB Atlas (Database Cloud)                  │
 └─────────────────────────────────────────────────────┘
 ```
 

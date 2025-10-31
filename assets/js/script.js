@@ -174,42 +174,6 @@ projectCards.forEach(card => {
     });
 });
 
-// ==================== CONTACT FORM ====================
-const contactForm = document.getElementById('contactForm');
-
-contactForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    
-    // Get form values
-    const name = document.getElementById('name').value;
-    const email = document.getElementById('email').value;
-    const message = document.getElementById('message').value;
-    
-    // Create animation
-    const btn = contactForm.querySelector('.btn-primary');
-    const originalText = btn.innerHTML;
-    
-    btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Enviando...';
-    btn.disabled = true;
-    
-    // Simulate sending (replace with actual form submission)
-    setTimeout(() => {
-        btn.innerHTML = '<i class="fas fa-check"></i> Enviado!';
-        btn.style.background = 'linear-gradient(135deg, #10b981, #059669)';
-        
-        // Reset form
-        setTimeout(() => {
-            contactForm.reset();
-            btn.innerHTML = originalText;
-            btn.style.background = '';
-            btn.disabled = false;
-            
-            // Show success message
-            showNotification('Mensagem enviada com sucesso!', 'success');
-        }, 2000);
-    }, 1500);
-});
-
 // ==================== NOTIFICATION SYSTEM ====================
 function showNotification(message, type = 'success') {
     const notification = document.createElement('div');

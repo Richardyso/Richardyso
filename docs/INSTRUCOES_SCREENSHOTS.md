@@ -6,17 +6,17 @@ Para substituir os placeholders pelas imagens reais dos seus sites, siga estas i
 
 ### Passo 1: Tirar Screenshots
 1. Acesse cada um dos seus sites:
-   - https://brasrio.netlify.app/
-   - https://brasriocg.netlify.app/
+   - https://cuidar-pt.vercel.app/ (DESTAQUE - Sistema Full Stack)
    - https://cleoneide.netlify.app/
-   - https://planejagro.netlify.app/
+   - https://babidesign.netlify.app/
+   - https://brasriocg.netlify.app/
 
 2. Tire screenshots de cada site (tecla `Print Screen` ou `Win + Shift + S`)
 3. Salve as imagens com nomes descritivos:
-   - `brasrio-screenshot.jpg`
-   - `calculadora-screenshot.jpg`
+   - `cuidar-pt-screenshot.jpg`
    - `armarinho-screenshot.jpg`
-   - `planejagro-screenshot.jpg`
+   - `babidesign-screenshot.jpg`
+   - `calculadora-screenshot.jpg`
 
 ### Passo 2: Hospedar as Imagens
 
@@ -48,10 +48,10 @@ Abra o arquivo `index.html` e substitua as URLs dos placeholders:
 ```
 
 **Substitua nas linhas:**
-- Linha ~132: BrasRio
-- Linha ~154: Calculadora BrasRio  
-- Linha ~176: Armarinho Cleoneide
-- Linha ~198: PlanejAgro
+- Linha ~132: Cuidar-PT (Projeto em Destaque)
+- Linha ~156: Armarinho Cleoneide
+- Linha ~178: Babi Design
+- Linha ~200: Calculadora BrasRio
 
 ---
 
@@ -66,26 +66,26 @@ mkdir images
 ### Passo 2: Mover Screenshots
 1. Coloque os screenshots na pasta `images/`
 2. Renomeie para:
-   - `images/brasrio.jpg`
-   - `images/calculadora.jpg`
+   - `images/cuidar-pt.jpg`
    - `images/armarinho.jpg`
-   - `images/planejagro.jpg`
+   - `images/babidesign.jpg`
+   - `images/calculadora.jpg`
 
 ### Passo 3: Atualizar HTML
 Substitua as URLs no `index.html`:
 
 ```html
-<!-- BrasRio -->
-<img src="images/brasrio.jpg" alt="BrasRio Website">
-
-<!-- Calculadora -->
-<img src="images/calculadora.jpg" alt="Calculadora BrasRio">
+<!-- Cuidar-PT (Destaque) -->
+<img src="images/cuidar-pt.jpg" alt="Cuidar-PT">
 
 <!-- Armarinho -->
 <img src="images/armarinho.jpg" alt="Armarinho Cleoneide">
 
-<!-- PlanejAgro -->
-<img src="images/planejagro.jpg" alt="PlanejAgro">
+<!-- Babi Design -->
+<img src="images/babidesign.jpg" alt="Babi Design">
+
+<!-- Calculadora -->
+<img src="images/calculadora.jpg" alt="Calculadora BrasRio">
 ```
 
 ---
@@ -130,12 +130,13 @@ Para adicionar screenshots dos apps **Eletricarlos** e **BrasRio**:
 
 ## ✅ Checklist Final
 
-- [ ] Screenshots tirados de todos os 4 sites
+- [ ] Screenshots tirados dos 4 sites (Cuidar-PT, Armarinho, Babi Design, Calculadora)
 - [ ] Imagens otimizadas e comprimidas
 - [ ] URLs atualizadas no `index.html`
 - [ ] Screenshots dos apps Android adicionados
 - [ ] Testado no navegador
 - [ ] Verificado responsividade mobile
+- [ ] Badge "Destaque" aparecendo no Cuidar-PT
 
 ---
 
@@ -144,13 +145,13 @@ Para adicionar screenshots dos apps **Eletricarlos** e **BrasRio**:
 ```html
 <!-- Seção de Projetos Web - ANTES -->
 <div class="project-image">
-    <img src="https://via.placeholder.com/400x250/dc2626/ffffff?text=BrasRio+Website" alt="BrasRio Website">
+    <img src="https://image.thum.io/get/width/800/crop/600/https://cuidar-pt.vercel.app/" alt="Cuidar-PT">
     ...
 </div>
 
 <!-- Seção de Projetos Web - DEPOIS -->
 <div class="project-image">
-    <img src="https://i.imgur.com/EXEMPLO123.jpg" alt="BrasRio Website">
+    <img src="https://i.imgur.com/EXEMPLO123.jpg" alt="Cuidar-PT">
     ...
 </div>
 ```
