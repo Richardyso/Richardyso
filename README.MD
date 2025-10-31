@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardyson-freitas-166b421a3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ri_chardyson)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521999224864)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://richardyson.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://richardyso.netlify.app/)
 
 </div>
 
@@ -169,7 +169,7 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, in
 - 💼 **LinkedIn**: [richardyson-freitas](https://www.linkedin.com/in/richardyson-freitas-166b421a3)
 - 📷 **Instagram**: [@ri_chardyson](https://www.instagram.com/ri_chardyson)
 - 💬 **WhatsApp**: [(21) 99922-4864](https://wa.me/5521999224864)
-- 🌐 **Portfolio**: [Em breve](https://richardyson.github.io)
+- 🌐 **Portfolio**: https://richardyso.netlify.app/
 - 📧 **Email**: Disponível no LinkedIn
 
 ---
@@ -198,4 +198,8 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, in
 ⭐ *Se você gostou dos meus projetos, deixe uma estrela!* ⭐
 
 </div>
+
+
+
+
 
