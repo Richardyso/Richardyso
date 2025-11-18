@@ -6,14 +6,14 @@ Para substituir os placeholders pelas imagens reais dos seus sites, siga estas i
 
 ### Passo 1: Tirar Screenshots
 1. Acesse cada um dos seus sites:
-   - https://cuidar-pt.vercel.app/ (DESTAQUE - Sistema Full Stack)
+   - https://amigoscuidadores.vercel.app/ (DESTAQUE - Sistema Full Stack)
    - https://cleoneide.netlify.app/
    - https://babidesign.netlify.app/
    - https://brasriocg.netlify.app/
 
 2. Tire screenshots de cada site (tecla `Print Screen` ou `Win + Shift + S`)
 3. Salve as imagens com nomes descritivos:
-   - `cuidar-pt-screenshot.jpg`
+   - `amigos-cuidadores-screenshot.jpg`
    - `armarinho-screenshot.jpg`
    - `babidesign-screenshot.jpg`
    - `calculadora-screenshot.jpg`
@@ -48,7 +48,7 @@ Abra o arquivo `index.html` e substitua as URLs dos placeholders:
 ```
 
 **Substitua nas linhas:**
-- Linha ~132: Cuidar-PT (Projeto em Destaque)
+- Linha ~132: Amigos Cuidadores (Projeto em Destaque)
 - Linha ~156: Armarinho Cleoneide
 - Linha ~178: Babi Design
 - Linha ~200: Calculadora BrasRio
@@ -66,7 +66,7 @@ mkdir images
 ### Passo 2: Mover Screenshots
 1. Coloque os screenshots na pasta `images/`
 2. Renomeie para:
-   - `images/cuidar-pt.jpg`
+   - `images/amigos-cuidadores.jpg`
    - `images/armarinho.jpg`
    - `images/babidesign.jpg`
    - `images/calculadora.jpg`
@@ -75,8 +75,8 @@ mkdir images
 Substitua as URLs no `index.html`:
 
 ```html
-<!-- Cuidar-PT (Destaque) -->
-<img src="images/cuidar-pt.jpg" alt="Cuidar-PT">
+<!-- Amigos Cuidadores (Destaque) -->
+<img src="images/amigos-cuidadores.jpg" alt="Amigos Cuidadores">
 
 <!-- Armarinho -->
 <img src="images/armarinho.jpg" alt="Armarinho Cleoneide">
@@ -130,13 +130,13 @@ Para adicionar screenshots dos apps **Eletricarlos** e **BrasRio**:
 
 ## ✅ Checklist Final
 
-- [ ] Screenshots tirados dos 4 sites (Cuidar-PT, Armarinho, Babi Design, Calculadora)
+- [ ] Screenshots tirados dos 4 sites (Amigos Cuidadores, Armarinho, Babi Design, Calculadora)
 - [ ] Imagens otimizadas e comprimidas
 - [ ] URLs atualizadas no `index.html`
 - [ ] Screenshots dos apps Android adicionados
 - [ ] Testado no navegador
 - [ ] Verificado responsividade mobile
-- [ ] Badge "Destaque" aparecendo no Cuidar-PT
+- [ ] Badge "Destaque" aparecendo no Amigos Cuidadores
 
 ---
 
@@ -145,13 +145,13 @@ Para adicionar screenshots dos apps **Eletricarlos** e **BrasRio**:
 ```html
 <!-- Seção de Projetos Web - ANTES -->
 <div class="project-image">
-    <img src="https://image.thum.io/get/width/800/crop/600/https://cuidar-pt.vercel.app/" alt="Cuidar-PT">
+    <img src="https://image.thum.io/get/width/800/crop/600/https://amigoscuidadores.vercel.app/" alt="Amigos Cuidadores">
     ...
 </div>
 
 <!-- Seção de Projetos Web - DEPOIS -->
 <div class="project-image">
-    <img src="https://i.imgur.com/EXEMPLO123.jpg" alt="Cuidar-PT">
+    <img src="https://i.imgur.com/EXEMPLO123.jpg" alt="Amigos Cuidadores">
     ...
 </div>
 ```

@@ -15,7 +15,7 @@
 - ❌ Removido: **PlanejAgro** (https://planejagro.netlify.app/)
 
 #### 2. **Adição do Projeto em Destaque** ⭐
-- ✅ Adicionado: **Cuidar-PT** (https://cuidar-pt.vercel.app/)
+- ✅ Adicionado: **Amigos Cuidadores** (https://amigoscuidadores.vercel.app/)
   - Badge "✨ Destaque" animado com efeito dourado
   - Posição principal na seção de projetos
   - Descrição completa das tecnologias utilizadas
@@ -76,7 +76,7 @@
 ## 📁 Arquivos Modificados
 
 ### 1. `index.html`
-- **Linhas 129-153:** Substituído BrasRio pelo Cuidar-PT
+- **Linhas 129-153:** Substituído BrasRio pelo Amigos Cuidadores
 - **Linhas 155-175:** Removidas Calculadora e PlanejAgro
 - **Linhas 382-470:** Atualizada seção de habilidades (9 skills)
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 🚀 Funcionalidades do Projeto Cuidar-PT
+## 🚀 Funcionalidades do Projeto Amigos Cuidadores
 
 ### Backend (Node.js)
 - ⚙️ Servidor Node.js
@@ -127,8 +127,8 @@
 
 ## 🔍 Sites no Portfólio
 
-### 1. Cuidar-PT ⭐ (DESTAQUE)
-- **URL:** https://cuidar-pt.vercel.app/
+### 1. Amigos Cuidadores ⭐ (DESTAQUE)
+- **URL:** https://amigoscuidadores.vercel.app/
 - **Descrição:** Sistema Full Stack completo
 - **Tecnologias:** Node.js, JavaScript, MongoDB, Vercel, Gmail API
 
@@ -154,11 +154,11 @@
 | Aspecto | Antes | Depois |
 |---------|-------|--------|
 | **Número de sites** | 4 sites | 4 sites (com projeto Full Stack em destaque) |
-| **Projeto em destaque** | ❌ Não havia | ✅ Cuidar-PT (Badge dourado) |
+| **Projeto em destaque** | ❌ Não havia | ✅ Amigos Cuidadores (Badge dourado) |
 | **Tecnologias Backend** | 1 (Python) | 3 (Node.js, MongoDB, Gmail API) |
 | **Cloud Platforms** | 1 (Netlify) | 2 (Netlify + Vercel) |
 | **Total de skills** | 8 | 9 |
-| **Full Stack Project** | ❌ Não | ✅ Sim (Cuidar-PT) |
+| **Full Stack Project** | ❌ Não | ✅ Sim (Amigos Cuidadores) |
 | **Sites adicionados** | - | Babi Design, Calculadora BrasRio (readicionada) |
 
 ---
@@ -189,7 +189,7 @@
 ## ✅ Checklist de Validação
 
 - [x] Sites antigos removidos (BrasRio, Calculadora, PlanejAgro)
-- [x] Cuidar-PT adicionado com destaque
+- [x] Amigos Cuidadores adicionado com destaque
 - [x] Badge "Destaque" implementado e funcionando
 - [x] Seção de habilidades atualizada (9 skills)
 - [x] README.md atualizado
@@ -235,7 +235,7 @@ Hover-shadow: rgba(251, 191, 36, 0.8)
 - Substituir Thum.io por screenshots locais
 - Melhor performance de carregamento
 
-### 2. **Detalhes do Cuidar-PT**
+### 2. **Detalhes do Amigos Cuidadores**
 - Criar página dedicada ao projeto
 - Adicionar mais screenshots
 - Detalhar arquitetura
@@ -275,9 +275,9 @@ Hover-shadow: rgba(251, 191, 36, 0.8)
 ✨ **Portfólio atualizado com sucesso!**
 
 O site agora possui:
-- ⭐ Projeto Full Stack em destaque (Cuidar-PT)
+- ⭐ Projeto Full Stack em destaque (Amigos Cuidadores)
 - 🚀 9 tecnologias modernas destacadas
-- 🌐 4 sites publicados (Cuidar-PT, Armarinho, Babi Design, Calculadora)
+- 🌐 4 sites publicados (Amigos Cuidadores, Armarinho, Babi Design, Calculadora)
 - 🧩 2 extensões Chrome (Dido Scrapper, Dsender)
 - 📱 2 apps Android (Eletricarlos, BrasRio)
 - 💼 Foco em qualidade e diversidade

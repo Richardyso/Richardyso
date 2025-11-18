@@ -40,7 +40,7 @@ const richardyson = {
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -52,7 +52,6 @@ const richardyson = {
 ### Cloud & Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & APIs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,16 +65,17 @@ const richardyson = {
 
 ### 🌐 Sites & Web Apps
 
-#### ✨ **[Cuidar-PT - Sistema Full Stack](https://cuidar-pt.vercel.app/)** ✨
-Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, integração com **Gmail API** e deploy no **Vercel**. Projeto Full Stack com backend robusto, interface moderna e envio de emails automatizado.
+#### ✨ **[Amigos Cuidadores - Sistema Full Stack](https://amigoscuidadores.vercel.app/)** ✨
+Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**, integração com **Gmail API** e deploy no **Vercel**. Projeto Full Stack com backend robusto, interface moderna e envio de emails automatizado.
 
-**Tecnologias:** Node.js | JavaScript | MongoDB | Vercel | Gmail API | Git/GitHub
+**Tecnologias:** Node.js | JavaScript | Firebase | Vercel | Gmail API | Git/GitHub
 
 ---
 
-- **[Armarinho Cleoneide](https://cleoneide.netlify.app/)** - E-commerce de armarinho com design responsivo
-- **[Babi Design](https://babidesign.netlify.app/)** - Portfólio criativo de design com galeria de trabalhos
-- **[Calculadora BrasRio](https://brasriocg.netlify.app/)** - Calculadora interativa com interface intuitiva
+- **[Babi Design](https://babidesign.netlify.app/)** - Portfólio criativo de design | Deploy: Netlify
+- **[Minha Vida, Teu Vlog](https://minhavidateuvlog.netlify.app/)** - Site de criadora de conteúdo sobre autocuidado | Deploy: Netlify
+- **[Armarinho Cleoneide](https://cleoneide.netlify.app/)** - E-commerce de armarinho com catálogo | Deploy: Netlify
+- **[Calculadora BrasRio](https://brasriocg.netlify.app/)** - Calculadora interativa e funcional | Deploy: Netlify
 
 ### 📱 Aplicativos Android
 - **[Eletricarlos](https://github.com/Richardyso/Aplicativos/tree/main/Android/Eletricarlos)** - App para serviços elétricos em Kotlin
@@ -131,7 +131,7 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, in
 │  Backend Development                                │
 │  ├─ Node.js & Express                               │
 │  ├─ APIs RESTful                                    │
-│  ├─ MongoDB & MongoDB Atlas                         │
+│  ├─ Firebase Database                               │
 │  └─ Integração com APIs externas (Gmail)            │
 │                                                      │
 │  Mobile Development                                 │
@@ -147,7 +147,7 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **MongoDB Atlas**, in
 │  Cloud & Deploy                                     │
 │  ├─ Vercel (Full Stack Apps)                        │
 │  ├─ Netlify (Static Sites)                          │
-│  └─ MongoDB Atlas (Database Cloud)                  │
+│  └─ Firebase (Database Cloud)                       │
 └─────────────────────────────────────────────────────┘
 ```
 
