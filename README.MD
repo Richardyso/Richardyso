@@ -96,20 +96,6 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardyson&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardyson&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richardyson&theme=radical&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626)
-
-</div>
-
----
-
 ## 🎓 Formação & Aprendizado
 
 - 📚 **Análise e Desenvolvimento de Sistemas** - Autodidata
@@ -171,13 +157,6 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 - 💬 **WhatsApp**: [(21) 99922-4864](https://wa.me/5521999224864)
 - 🌐 **Portfolio**: https://richardyso.netlify.app/
 - 📧 **Email**: Disponível no LinkedIn
-
----
-
-## 📌 Repositórios em Destaque
-
-[![Sites](https://github-readme-stats.vercel.app/api/pin/?username=richardyson&repo=Sites&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626)](https://github.com/Richardyso/Sites)
-[![Aplicativos](https://github-readme-stats.vercel.app/api/pin/?username=richardyson&repo=Aplicativos&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626)](https://github.com/Richardyso/Aplicativos)
 
 ---
 
