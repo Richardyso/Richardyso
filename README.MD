@@ -4,7 +4,7 @@
 
 ### 💻 Desenvolvedor Full Stack | 📱 Mobile | 🧩 Extensions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardyson-freitas-166b421a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardyson-santos-166b421a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ri_chardyson)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521999224864)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://richardyso.netlify.app/)
@@ -57,7 +57,10 @@ const richardyson = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -70,10 +73,18 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 
 **Tecnologias:** Node.js | JavaScript | Firebase | Vercel | Gmail API | Git/GitHub
 
+#### ✨ **[GlowMeClub - Sistema Full Stack](https://glowmeclub.vercel.app/)** ✨
+Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**, integração com **Gmail API** e deploy no **Vercel**. Projeto Full Stack com backend robusto, interface moderna e envio de emails automatizado.
+
+**Tecnologias:** Node.js | JavaScript | Firebase | Vercel | Gmail API | Git/GitHub
+
 ---
 
 - **[Babi Design](https://babidesign.netlify.app/)** - Portfólio criativo de design | Deploy: Netlify
 - **[Minha Vida, Teu Vlog](https://minhavidateuvlog.netlify.app/)** - Site de criadora de conteúdo sobre autocuidado | Deploy: Netlify
+- **[Rosa Fúcsia Nails](https://rosafucsia.netlify.app/)** - Site profissional para estética e unhas de gel com design elegante e feminino | Deploy: Netlify
+- **[Psicólogo Alef Dias](https://psialefdias.netlify.app/)** - Landing page profissional para psicólogo com agendamento online e design acolhedor | Deploy: Netlify
+- **[Louis Gamerr](https://louisgamerr.netlify.app/)** - Site gaming com design moderno e animações interativas para streamer | Deploy: Netlify
 - **[Armarinho Cleoneide](https://cleoneide.netlify.app/)** - E-commerce de armarinho com catálogo | Deploy: Netlify
 - **[Calculadora BrasRio](https://brasriocg.netlify.app/)** - Calculadora interativa e funcional | Deploy: Netlify
 
@@ -152,7 +163,7 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 
 ## 📫 Como me encontrar
 
-- 💼 **LinkedIn**: [richardyson-freitas](https://www.linkedin.com/in/richardyson-freitas-166b421a3)
+- 💼 **LinkedIn**: [richardyson-santos](https://www.linkedin.com/in/richardyson-santos-166b421a3/)
 - 📷 **Instagram**: [@ri_chardyson](https://www.instagram.com/ri_chardyson)
 - 💬 **WhatsApp**: [(21) 99922-4864](https://wa.me/5521999224864)
 - 🌐 **Portfolio**: https://richardyso.netlify.app/
