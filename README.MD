@@ -2,7 +2,7 @@
   
 # 👋 Olá, eu sou Richardyson!
 
-### 💻 Desenvolvedor Full Stack | 📱 Mobile | 🧩 Extensions
+### 💻 Desenvolvedor Full Stack | 📱 Mobile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardyson-santos-166b421a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ri_chardyson)
@@ -15,14 +15,14 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor **Full Stack** autodidata em **Análise e Desenvolvimento de Sistemas**, apaixonado por criar soluções completas que vão do **frontend ao backend**, passando por **aplicativos mobile** e **extensões para navegadores**.
+Desenvolvedor **Full Stack** autodidata em **Análise e Desenvolvimento de Sistemas**, apaixonado por criar soluções completas que vão do **frontend ao backend**, passando por **aplicativos mobile**.
 
 ```javascript
 const richardyson = {
   role: 'Full Stack Developer',
   location: 'Rio de Janeiro, Brasil',
   education: 'Análise e Desenvolvimento de Sistemas (Autodidata)',
-  currentFocus: ['Web Development', 'Mobile Apps', 'Browser Extensions'],
+  currentFocus: ['Web Development', 'Mobile Apps'],
   learning: true,
   passion: 'Criar soluções que fazem diferença! 🎯'
 };
@@ -92,19 +92,6 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 - **[Eletricarlos](https://github.com/Richardyso/Aplicativos/tree/main/Android/Eletricarlos)** - App para serviços elétricos em Kotlin
 - **[BrasRio App](https://github.com/Richardyso/Aplicativos/tree/main/Android/BrasRio)** - App Android da empresa BrasRio
 
-### 🧩 Extensões Chrome
-- **[Dido Scrapper - Extrator de Leads](https://github.com/Richardyso/Aplicativos/tree/main/Extens%C3%A3o/Dido%20Scrapper)**
-  - Extração automática de dados do Google Maps e Bing Maps
-  - 100% Gratuito e sem limitações
-  - Exportação para Excel
-  - Web Scraping com JavaScript
-
-- **[Dsender - Envio Automatizado](https://github.com/Richardyso/Aplicativos/tree/main/Extens%C3%A3o/Dsender)**
-  - Automação de envio de mensagens
-  - Envio em massa e personalização
-  - Agendamento de mensagens
-  - Automação com JavaScript
-
 ---
 
 ## 🎓 Formação & Aprendizado
@@ -135,11 +122,6 @@ Sistema completo de cuidados desenvolvido com **Node.js**, **Firebase Database**
 │  ├─ Apps Android nativos em Kotlin                  │
 │  ├─ Material Design                                 │
 │  └─ Integração com APIs                             │
-│                                                      │
-│  Browser Extensions                                 │
-│  ├─ Extensões Chrome/Chromium                       │
-│  ├─ Web Scraping                                    │
-│  └─ Automação de tarefas                            │
 │                                                      │
 │  Cloud & Deploy                                     │
 │  ├─ Vercel (Full Stack Apps)                        │
