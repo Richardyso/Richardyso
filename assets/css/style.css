@@ -1427,11 +1427,6 @@ body {
         font-size: 1rem;
     }
     
-    .custom-cursor,
-    .cursor-follower {
-        display: none !important;
-    }
-    
     .scroll-indicator {
         display: none;
     }
