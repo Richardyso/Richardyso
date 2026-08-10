@@ -149,7 +149,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // ==================== PROJECT CARDS TILT EFFECT ====================
-const projectCards = document.querySelectorAll('.project-card, .about-card, .android-card');
+const projectCards = document.querySelectorAll('.project-card');
 
 projectCards.forEach(card => {
     card.addEventListener('mousemove', (e) => {
