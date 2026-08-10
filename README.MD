@@ -68,20 +68,20 @@ const richardyson = {
 
 ### ✨ Full Stack
 
-#### **[Amigos Cuidadores](https://amigoscuidadores.vercel.app/)**
-Sistema completo de cuidados com backend em **Node.js**, **Firebase**, integração com **Gmail API** e deploy no **Vercel**.
+#### **[Grupo Trezentos](https://www.grupotrezentos.com/)**
+CRM completo para assessoria e consultoria: pipeline com **Kanban**, gestão de leads e operação em um único ecossistema. Front em **Next.js**, API em **Node.js** e banco no **Supabase** (Auth, Postgres e tempo real).
 
-**Stack:** Node.js · JavaScript · Firebase · Vercel · Gmail API · Full Stack
+**Stack:** Next.js · Node.js · Supabase · PostgreSQL · CRM · Kanban · Full Stack
 
 #### **[GlowMeClub](https://glowmeclub.vercel.app/)**
 Plataforma de evolução pessoal com gamificação. Full Stack com foco em interface moderna e autocuidado.
 
 **Stack:** Node.js · JavaScript · Firebase · Vercel · Gmail API · Full Stack
 
-#### **[Grupo Trezentos](https://www.grupotrezentos.com/)**
-CRM completo para assessoria e consultoria: pipeline com **Kanban**, gestão de leads e operação em um único ecossistema. Front em **Next.js**, API em **Node.js** e banco no **Supabase** (Auth, Postgres e tempo real).
+#### **[Amigos Cuidadores](https://amigoscuidadores.vercel.app/)**
+Sistema completo de cuidados com backend em **Node.js**, **Firebase**, integração com **Gmail API** e deploy no **Vercel**.
 
-**Stack:** Next.js · Node.js · Supabase · PostgreSQL · CRM · Kanban · Full Stack
+**Stack:** Node.js · JavaScript · Firebase · Vercel · Gmail API · Full Stack
 
 ---
 
